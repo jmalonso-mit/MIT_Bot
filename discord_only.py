@@ -23,4 +23,4 @@ return
 if message. content.startswith('$hello'):
 await message. channel. send ( 'Hello!')
 
-client.run(os.getenv('DISCORD_TOKEN'))
+client.run(os.getenv('THE_TOKEN'))
